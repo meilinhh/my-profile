@@ -1,0 +1,57 @@
+body {
+	background-color: #fdfcf7;
+	color: lightpink;
+	font-family: Garamond;
+}
+
+h1 {
+	color: pink;
+	font-family: Helvetica;
+
+}
+
+
+
+
+div {
+	background: white;
+	padding: 10px;
+	margin: 10px;
+	box-shadow:  0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+
+}
+
+
+a {
+	font-family: 'Robot', sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600;
+	font-size: 16px;
+
+}
+
+a:hover {
+	color: black;
+
+}
+
+profile.jpeg {
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
